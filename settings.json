@@ -1,0 +1,144 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "editor.cursorBlinking": "solid",
+    "C_Cpp.default.intelliSenseMode": "msvc-x64",
+    "editor.autoClosingQuotes": "never",
+    "vim.easymotion": true,
+    "vim.incsearch": true,
+    "vim.hlsearch": true,
+    "C_Cpp.addNodeAddonIncludePaths": true,
+    "editor.minimap.enabled": false,
+    "editor.cursorStyle": "line",
+    "editor.insertSpaces": false,
+    "editor.lineNumbers": "on",
+    "editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
+    "editor.wordWrap": "off",
+    "workbench.colorTheme": "Noctis Minimus",
+    "vim.useCtrlKeys": false,
+    "update.showReleaseNotes": false,
+    "extensions.autoCheckUpdates": false,
+    "telemetry.telemetryLevel": "off",
+    "vsicons.dontShowNewVersionMessage": true,
+    "C_Cpp.codeFolding": "Disabled",
+    "C_Cpp.suggestSnippets": false,
+    "window.zoomLevel": 1,
+    "editor.formatOnPaste": true,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "Todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "#98C379",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "Note",
+            "color": "#06d6a0",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": true,
+            "italic": false
+        },
+        {
+            "tag": "Check",
+            "color": "#6b705c",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": true,
+            "italic": true
+        },
+        {
+            "tag": "Walk",
+            "color": "#414833",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": true
+        }
+    ],
+    "better-comments.highlightPlainText": true,
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#dddad6",
+        "terminal.ansiBlack": "#1D2021",
+        "terminal.ansiBrightBlack": "#665C54",
+        "terminal.ansiBrightBlue": "#0D6678",
+        "terminal.ansiBrightCyan": "#8BA59B",
+        "terminal.ansiBrightGreen": "#237e02",
+        "terminal.ansiBrightMagenta": "#8F4673",
+        "terminal.ansiBrightRed": "#FB543F",
+        "terminal.ansiBrightWhite": "#FDF4C1",
+        "terminal.ansiBrightYellow": "#FAC03B",
+        "terminal.ansiBlue": "#00a1f9",
+        "terminal.ansiCyan": "#8BA59B",
+        "terminal.ansiGreen": "#95C085",
+        "terminal.ansiMagenta": "#8F4673",
+        "terminal.ansiRed": "#FB543F",
+        "terminal.ansiWhite": "#A89984",
+        "terminal.ansiYellow": "#FAC03B"
+    },
+    "git.showInlineOpenFileAction": false,
+    "vim.normalModeKeyBindings": [
+        {
+            "before": [
+                "u",
+            ],
+            "after": [
+                ""
+            ]
+        }
+    ],
+    "vim.visualModeKeyBindings": [
+        {
+            "before": [
+                "u",
+            ],
+            "after": [
+                ""
+            ]
+        }
+    ],
+    "terminal.integrated.enablePersistentSessions": false,
+    "window.restoreWindows": "none"
+}
